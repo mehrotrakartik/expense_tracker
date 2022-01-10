@@ -5,9 +5,6 @@ import ExpenseDate from './ExpenseDate'
 
 
 function ExpenseItem(props) {
-    const clickHandler = () => {
-
-    }
     return (
         <li>
             <Card className='expense-item'>
